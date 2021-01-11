@@ -11,3 +11,4 @@ Add yourself below as a `Team Member`.
 ## Team Members:
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal)
 - [Anirudh Jalan](https://github.com/anirudhjalan) 
+- [Aditya Palve](https://github.com/ThanoS-max/)
